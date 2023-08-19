@@ -1,7 +1,5 @@
 # PyWeather App using Beautiful Soup
 
-![Python Weather App](weather_app.png)
-
 Welcome "PyWeather: A Python-based Weather App 🌦️, a simple command-line application that allows you to retrieve weather information for a specific location 
 using the Beautiful Soup library. This app is designed to provide you with up-to-date weather data from various sources on the web.
 
